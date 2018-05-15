@@ -12,6 +12,6 @@ This is my first machine learning project using neural networks. Predicting stoc
 
 ### More Results
 
-This is the same Architecture shown in ![RNN_Predictor python notebook](https://raw.githubusercontent.com/NamitraKali/Stock-Price-Prediction/master/RNN_predictor.ipynb), but instead we split our train and tests such that 10% of the data was reserved for testing.
+This is the same model shown in the ![RNN_Predictor python notebook](https://raw.githubusercontent.com/NamitraKali/Stock-Price-Prediction/master/RNN_predictor.ipynb), but instead we split our train and tests such that 10% of the data was reserved for testing. The model was retrained on this new training split to better see how well it can forecast further data.
 
 ![](https://raw.githubusercontent.com/NamitraKali/Stock-Price-Prediction/master/images/long_test.png)
